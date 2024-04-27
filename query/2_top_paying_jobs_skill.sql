@@ -32,3 +32,8 @@ GROUP BY
     skills_dim.skills
 ORDER BY
     count DESC
+/*
+Python: This is the most essential skill, with 17 mentions.
+AWS: Amazon Web Services (AWS) is a leading cloud computing platform, and knowledge of AWS services is valuable for deploying and managing machine learning models in the cloud. It's mentioned 9 times.
+SQL: Structured Query Language (SQL) is essential for working with relational databases, which are often used to store and retrieve data for machine learning projects. It's mentioned 7 times.
+*/
