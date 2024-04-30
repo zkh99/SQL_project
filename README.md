@@ -1,4 +1,4 @@
-# sql_project
+# SQL Project
 ## Introduction
 This project inspects job postings for various data-oriented roles, with an emphasis on the position of Machine Learning Engineer. Through this analysis, we aim to check the highest-paying roles and identify the most sought-after skills.
 
